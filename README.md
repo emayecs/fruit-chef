@@ -5,4 +5,5 @@ This repo contains the majority of the files created by [Kevin Cai](https://gith
 ## Important Note:
 Since the physics engine component of the project is an integral part of the CS 3 curriculum, the c files containing its specific implementation details have been excluded from the repo.
 
-![Fruit Chef](https://github.com/emayecs/fruit-chef/blob/main/fruit_chef.png?raw=true)
+https://github.com/emayecs/fruit-chef/assets/75549568/e89a0471-8eb7-4f88-b331-6059d74b0216
+
